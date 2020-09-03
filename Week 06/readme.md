@@ -1,0 +1,5 @@
+- Paper protypes
+- solidifying on a critical theory text
+- paper prototypes 
+- github: further exploration 
+- Pseudo code 
