@@ -15,3 +15,4 @@ We discussed our first assignment, reading House of Leaves through a game and sp
 
 We shared our first processing works (mine being extremely rudimental), but I learnt some fundimentals that helped me solifiy my understanding in the basics of code on processing.
 
+![a0fb5d77ba4f2804a94a02e675084d2b](/assets/a0fb5d77ba4f2804a94a02e675084d2b.jpg)
