@@ -1,0 +1,3 @@
+- Presenting our groups final project
+- Worked on ratoinale WIIP 
+- Next assignment and the readings: trouble with choosing mine: I realise I like to do the analysis' of text and theories, rather than someone else doing them which is why i had trouble choosing a text for our next assignment. Fortunately Andy allowed me to further self explore a piece of my own, and I decided to find myself an analysis on Haruki Murakami's writings - one of my favourite authors. 
