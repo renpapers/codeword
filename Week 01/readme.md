@@ -5,3 +5,6 @@
 
 <img src="L.jpg"> 
 
+
+- With Karens help, we began our tutorial on processing and how code functions through this format of p5js - changing colours using the mousex/mousey functions, how to create shapes, and some concrete information on the basic fundementals of code. This being my first time utilising processing and code in a design format, I realised how interactive your artworks and designs can be as a user just by the simple click of a mouse. [here is a link to what we worked on!](https://renpapers.github.io/codeword/Processing%20Sketches/laurensfirstsketchprogress/)
+
