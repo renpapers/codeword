@@ -3,3 +3,4 @@
 - paper prototypes 
 - github: further exploration 
 - Pseudo code 
+- processing tutorials: [here](https://renpapers.github.io/codeword/Processing%20Sketches/week7_sketch) and [here](https://renpapers.github.io/codeword/Processing%20Sketches/week7_sketch_2)
