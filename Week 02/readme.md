@@ -11,6 +11,4 @@ this week I also began setting a goal to watch some coding tutorials: this is an
 
 We discussed our first assignment, reading House of Leaves through a game and split into our groups (ours choosing animal crossing).
 
-We shared our first processing works (mine being extremely rudimental), but I learnt some fundimentals that helped me solifiy my understanding in the basics of code on processing.
-
-
+Karens processing tutorial brought us deeper into the worlds of p5js, [here's what we did](https://renpapers.github.io/codeword/Processing%20Sketches/karens__O____week_2)
