@@ -1,4 +1,8 @@
+# Horros of Animal Crossing 
+
 We discussed in small groups different typefaces that have been created around the world: from the traditional typefaces such as Bauahaus to contemporary designers that used code to create typefaces. I personally found this installation by Olivier Vadrot, Rouen 2019 fascinating - the typographical character produced with the collabotration of Bureau Brut and Fanette Mellier, the letters describe a poem by James Noel through the form of circular-shaped nails and can be read in various inclinations. I loved how the roundness of the typeface complimented the circular nails they were placed on, offering a clean appearance of scattered, typewriter keys placed all over the courtyard of a college in Normandy. You can view her full project here: http://fanettemellier.com/project/les-clous/
+
+<img src="Fanette Mellier.jpg">
 
 This week I also began setting a goal to watch some coding tutorials: this is an entirely new realm to me, and I figured doing some self-exploration would be of help. I started watching the coding train tutorials on youtube, here's some notes i've written (you can find all of them in my 'coding notes' file). 
 
