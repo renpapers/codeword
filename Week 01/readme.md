@@ -8,4 +8,4 @@ With Karens help, we began our tutorial on processing and how code functions thr
 
 As a set task, we were told to mess around with processing and create a letter from our first (or last) names. Although mine being (extremely) rudimentary and admittedly not the most appealing visually, I again tried to mess around with the mousex/mousey functions, as well as curved shapes. Again, this being my first time coding I struggled to wrap my head around certain concepts, but eventually managed to get the hang of it! [Here's the final outcome](http://renpapers.github.io/codeword/Processing%20Sketches/L_sketch_yay)
 
-<img src="L.jpg">
+<img src="L.JPG">
