@@ -8,7 +8,11 @@ This week I also began setting a goal to watch some coding tutorials: this is an
 
 We discussed our first assignment, reading House of Leaves through a game and split into our groups (ours choosing animal crossing). I believe that an elevated sinister mood is higlighted due to the juxtapositon of the family-friendly intended nature of the game, and the horror text. Our chosen chapter to re-enact (chapter 3) provided us with eerie scenes that my group is excited to play out and create with the vast array of scene settings we can create due tto the versatility of items there are in Animal Crossing. 
 
+<img src="ac.JPG">
+
 Whilst reading House of Leaves, I found the authors use of 'cinematic grammar' and attention to detail with design of the publication further pulled me into the story - different fonts being used to different characters, and being purposefully disorientating for the reader - where it seems as if we too, are involved in the storyline with the characters. 
 
 
 Karens processing tutorial this class also brought us deeper into the worlds of p5js, as we continued to work on using the Mousex/mousey function through a more advanced, or different manner. [Here's what we did](https://renpapers.github.io/codeword/Processing%20Sketches/karens__O____week_2) 
+
+<img src="O.JPG">
