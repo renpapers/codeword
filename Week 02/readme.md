@@ -10,10 +10,11 @@ We discussed our first assignment, reading House of Leaves through a game and sp
 
 Whilst reading House of Leaves, I found the authors use of 'cinematic grammar' and attention to detail with design of the publication further pulled me into the story - different fonts being used to different characters, and being purposefully disorientating for the reader - where it seems as if we too, are involved in the storyline with the characters. 
 
+<img src="houseofleaves.jpg" width="400">
 
 Karens processing tutorial this class brought us deeper into the worlds of p5js, as we continued to work on using the Mousex/mousey function through a more advanced, or different manner. [Here's what we did](https://renpapers.github.io/codeword/Processing%20Sketches/karens__O____week_2) 
 
-<img src="O.JPG">
+<img src="O.JPG" width="400">
 
 This week I also began setting a goal to watch some coding tutorials: this is an entirely new realm to me, and I figured doing some self-exploration would be of help. I started watching the coding train tutorials on youtube, here's some notes i've written (you can find all of them in my 'coding notes' file). 
 
