@@ -9,3 +9,5 @@ We continued to work on our group assignment, and filmed some scenes that had th
 Karen and Andy also delved more into github and how to post our codes up for our final SKO (here's current me, three weeks later still struggling to use this platform...) 
 
 More self-practice on code was done this week too... here's some notes from the coding train and me attempting to use the 'random' function from one of his tutorials. 
+
+<img src= "pg5-6.JPG">
