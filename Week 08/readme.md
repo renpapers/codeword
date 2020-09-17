@@ -1,0 +1,3 @@
+- shared paper prototype gifs
+- discussed details, pseudocode of our ideas
+- 
