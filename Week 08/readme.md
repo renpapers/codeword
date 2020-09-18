@@ -1,3 +1,3 @@
 - shared paper prototype gifs
 - discussed details, pseudocode of our ideas
-- 
+- karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) 
