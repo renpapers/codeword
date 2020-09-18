@@ -2,3 +2,4 @@
 - discussed details, pseudocode of our ideas
 - karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) 
 - Discussed datamoshing 
+- inspiration: Andy gave us a wonderful source of other creatives portfolios, and I've been mesmerised by the graphics and codes I've witnessed. (Seriously giving me some portfolio inspiration too). Here's an artist I found particularly interesting: 
