@@ -1,3 +1,4 @@
-- shared paper prototype gifs
+- shared paper prototype gifs: beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
 - discussed details, pseudocode of our ideas
 - karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) 
+- Discussed datamoshing 
