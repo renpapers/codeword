@@ -3,8 +3,9 @@
 Milestoneess! I have made progress yay! This class we shared our paper prototype gifs: mine being the beginning of a narrative (landing page). Focusing now on concepts for the other 'realities' I'll be creating that will include parts of the text. 
 
 <img src="Capture.JPG">
-<img src="19.jpg">
 <img src="milestone-gif.gif">
+<img src="19.jpg">
+
 
 We discussed our pseudocode and details for our concept. Since my text writes about how language is used in Murakami's books to define and create realities, the concept for my landing page does this as well. When the user clicks on the page, a circle (aka a reality) is born. If this is then clicked, it'll direct you to another page that talks about a specific concept the text holds (as there are multiple). 
 
