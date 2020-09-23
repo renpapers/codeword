@@ -1,7 +1,8 @@
 # MILESTONE FOR AT2
 
-- shared paper prototype gifs: beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
+Milestoneess! I have made progress yay! This class we shared our paper prototype gifs: mine being the beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
 
+<img src="19.jpg">
 <img src="milestone-gif.gif">
 
 - discussed details, pseudocode of our ideas
