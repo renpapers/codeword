@@ -1,4 +1,4 @@
-# MILESTONE 
+# MILESTONE FOR AT2
 
 - shared paper prototype gifs: beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
 - discussed details, pseudocode of our ideas
