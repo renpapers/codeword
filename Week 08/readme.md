@@ -1,7 +1,7 @@
-# MILESTONE FOR AT2
+# MILESTONE FOR AT2: A GALAXY OF REALITIES
 
 Milestoneess! I have made progress yay! This class we shared our paper prototype gifs: mine being the beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
-
+<img src="Capture.JPG">
 <img src="19.jpg">
 <img src="milestone-gif.gif">
 
