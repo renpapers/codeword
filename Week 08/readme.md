@@ -1,6 +1,9 @@
 # MILESTONE FOR AT2
 
 - shared paper prototype gifs: beginning of a narrative (landing page). Focusing now on concept pages for the other 'realities' I'll be creating that will include the text. 
+
+<img src="milestone-gif.gif">
+
 - discussed details, pseudocode of our ideas
 
 These realities will be concepts the text discusses, examples (aka. parts of Murakami's writing that show these concepts), and specific quotes that I found profound and insightful. I'm unsure at this point whether these will all be split into their own individual reality (as that would be a whoollle lot of code that I'm not sure I have the timeline for), or combined into their own concept. So far these are the notes I've gathered on parts of the text I found quite interesting: 
