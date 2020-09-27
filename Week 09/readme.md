@@ -2,7 +2,7 @@
 
 ## Resources/references I used:
 
-Rewatched Karen's wiggly letters tutorial, and tried following it along as it incidentally holds a similar concept to my landing page. 
+Rewatched Karen's wiggly letters tutorial, and tried following it along as it coincidentally holds a similar concept to my landing page. 
 
 - 'stars' moving in background to add noise and texture, not interactive. I tried to create my own version of this based off of the original code, as well as tried to understand/grasp the concept before using it. 
 I wonder why the 'sparkle' variable didn't have to be written before the 'setup' function (ask Karen next class). Other than that, I understood how this mainly used the randomised function. Although I'd also like these to move at a slower pace (1 day later update: after doing some research I realised the 'frameRate' function would fix this).I'd like to get these to fade slowly and then reappear, creating a subtler effect. 
