@@ -10,3 +10,8 @@ Another resource I learnt about the randomised function was a week or so ago, fr
 tutorial on twinkling stars: https://codeburst.io/sunsets-and-shooting-stars-in-p5-js-92244d238e2b
 
 Learning about shaders to create a 'glow' effect on my stars!: https://p5js.org/reference/#/p5/shader and https://p5js.org/examples/3d-basic-shader.html
+
+<img src="trial1.JPG">
+<img src="trial2.JPG">
+<img src="trial3.JPG">
+<img src="trial4.JPG">
