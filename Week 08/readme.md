@@ -14,6 +14,6 @@ Unsure if that made sense, but if it didn't hope the gif helps out :) I want to 
 These realities will be concepts the text discusses, examples (aka. parts of Murakami's writing that show these concepts), and specific quotes that I found profound and insightful. I'm unsure at this point whether these will all be split into their own individual reality (as that would be a whoollle lot of code that I'm not sure I have the timeline for), or combined into their own concept. So far these are the notes I've gathered on parts of the text I found quite interesting: 
 
 
-- karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) 
+- karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) "all of these 'hello's are remembered. We care for them, we know them, we know where they are, we know the size of them". 
 - Discussed datamoshing 
 - inspiration: Andy gave us a wonderful source of other creatives portfolios, and I've been mesmerised by the graphics and codes I've witnessed. (Seriously giving me some portfolio inspiration too). Here's an artist I found particularly interesting: 
