@@ -1,4 +1,11 @@
 # WIP - START TRIALLING
+WARNING: my code has a lottttt of notes and '//' in it! please excuse the mess, it reflects how much of a mess i currently am. My code writing style is a reflection of how my brain works. 
+
+<img src="trial1.JPG">
+<img src="trial2.JPG">
+<img src="trial3.JPG">
+<img src="trial4.JPG">
+
 
 ## Resources/references I used:
 
@@ -13,7 +20,3 @@ tutorial on twinkling stars: https://codeburst.io/sunsets-and-shooting-stars-in-
 
 Learning about shaders to create a 'glow' effect on my stars!: https://p5js.org/reference/#/p5/shader and https://p5js.org/examples/3d-basic-shader.html
 
-<img src="trial1.JPG">
-<img src="trial2.JPG">
-<img src="trial3.JPG">
-<img src="trial4.JPG">
