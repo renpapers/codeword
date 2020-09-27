@@ -7,4 +7,6 @@ I wonder why the 'sparkle' variable didn't have to be written before the 'setup'
 https://editor.p5js.org/elinsterz/sketches/9KRmzsFDM
 Another resource I learnt about the randomised function was a week or so ago, from the Coding Train tutorials: https://www.youtube.com/watch?v=nfmV2kuQKwA&ab_channel=TheCodingTrain
 
+tutorial on twinkling stars: https://codeburst.io/sunsets-and-shooting-stars-in-p5-js-92244d238e2b
+
 Learning about shaders to create a 'glow' effect on my stars!: https://p5js.org/reference/#/p5/shader and https://p5js.org/examples/3d-basic-shader.html
