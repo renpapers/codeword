@@ -6,3 +6,5 @@
 I wonder why the 'sparkle' variable didn't have to be written before the 'setup' function (ask Karen next class). Other than that, I understood how this mainly used the randomised function. Although I'd also like these to move at a slower pace. 
 https://editor.p5js.org/elinsterz/sketches/9KRmzsFDM
 Another resource I learnt about the randomised function was a week or so ago, from the Coding Train tutorials: https://www.youtube.com/watch?v=nfmV2kuQKwA&ab_channel=TheCodingTrain
+
+Learning about shaders to create a 'glow' effect on my stars!: https://p5js.org/reference/#/p5/shader and https://p5js.org/examples/3d-basic-shader.html
