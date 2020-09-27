@@ -1,9 +1,16 @@
 # WIP - START TRIALLING
 WARNING: my code has a lottttt of notes and '//' in it! please excuse the mess, it reflects how much of a mess i currently am. My code writing style is a reflection of how my brain works. 
 
+Trial 1
 <img src="trial1.JPG">
+
+Trial 2
 <img src="trial2.JPG">
+
+Trial 3
 <img src="trial3.JPG">
+
+Trial 4: This one I simply added an alpha to the text/ellipses, and I fell in love with how when clicking multiple times, a 'glow' effect was emulated, and added depth to the stars, and a ghostly, sort of lonely feel to the text. I'd like to further explore this and find a way to create a glow effect easily in my sketch. 
 <img src="trial4.JPG">
 
 
