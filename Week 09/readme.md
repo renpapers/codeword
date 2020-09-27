@@ -20,3 +20,11 @@ tutorial on twinkling stars: https://codeburst.io/sunsets-and-shooting-stars-in-
 
 Learning about shaders to create a 'glow' effect on my stars!: https://p5js.org/reference/#/p5/shader and https://p5js.org/examples/3d-basic-shader.html
 
+### Things I need to change:
+- typeface: choose one that fits the mood
+- stars in bg: fade effect
+
+### Things I need to add: 
+- hyperlink to mousePressed 'realities'/stars: send to another page
+- glow effect on stars, 'pulsing' effect
+- 
