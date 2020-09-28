@@ -2,7 +2,11 @@
 
 Milestoneess! I have made progress yay! This class we shared our paper prototype gifs: mine being the beginning of a narrative (landing page). Focusing now on concepts for the other 'realities' I'll be creating that will include parts of the text. 
 
+Concept Ideas/Notes 
 <img src="Capture.JPG">
+
+<img src="textnotes1.jpg">
+
 <img src="milestone-gif.gif">
 <img src="19.jpg">
 
