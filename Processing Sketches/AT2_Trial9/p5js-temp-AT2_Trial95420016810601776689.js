@@ -1,0 +1,158 @@
+//resource: https://editor.p5js.org/ag3439/sketches/Skgh1ZQtQ
+
+var xPosition, yPosition, size, rand; 
+var wigglyStars = []; //group/bag of stars, what stars we have, where they are on the screen and what size they are 
+var fade; 
+var sentences = ["When I write I am kind of like a god, creating everything. I create what looks real to me - HM", "Is the reality that exists outside our minds", "and our consciousness", "truly there?", "does it exist?", "If so, how does it exist?", "How do we comprehend its existence?"]; 
+var sentenceCount = 0;
+var maxGalaxies = 1000;
+var galaxies = [];
+var letters;
+var fadeAmount = 1;
+var glow;
+var song;
+var analyzer;
+
+
+
+function preload(){
+  font = loadFont('data/BOD_R.TTF');
+  song = loadSound ('data/Beat.mp3');
+}
+function setup() {
+createCanvas(windowWidth, windowHeight);
+noCursor();
+background (0);
+textSize(30);
+textFont(font, 30); 
+
+//fade = 0
+}
+
+
+function draw() {
+  background(0,0,35,25); //this would redraw the background every loop 
+  fill (255, 253, 234);
+  textSize(30); 
+text (sentences[sentenceCount], 400, windowHeight/2);
+
+var bg ={
+  locationX: random(width),
+  locationY: random(height),
+  starsize: random(1,5)
+}
+ellipse(mouseX,mouseY, bg.starsize, bg.starsize);
+ellipse(bg.locationX, bg.locationY, bg.starsize, bg.starsize);
+
+fill (255, 253, 234);
+for (var i=0; i<wigglyStars.length; i++){
+  wigglyStars[i].display(); //this displays the stars/letters. for each object in wigglystars, wiggleletters 'i display'.
+  wigglyStars[i].update();
+}
+
+for(var i = 0; i < galaxies.length; i++){
+  galaxies[i].checkBoundary();
+  galaxies[i].update();
+  galaxies[i].display();
+}
+
+}
+
+function mouseClicked(){
+  size = int(random(3, 15));
+  letter = char(int(random(60,160)));
+  if(galaxies.length < maxGalaxies){
+    for(var i = 0; i < 50; i++){
+      galaxies.push(new Galaxy(mouseX, mouseY, letter));
+    }
+  }
+}
+
+function keyPressed(){
+  if(key == " "){
+    for(var i = 0; i < galaxies.length; i++){
+      galaxies[i].speedX = random(-5, 5) * 2;
+      galaxies[i].speedY = random(-5, 5) * 2;
+    }
+  }
+}
+
+  
+  
+function mousePressed(){
+    song.play();
+
+  size = int(random(6,100)); 
+  wigglyStars.push(new Wiggle (mouseX, mouseY, size));
+if (sentenceCount<sentences.length){
+  sentenceCount++;
+} else {
+  sentenceCount =0;
+} 
+}
+function Galaxy(x, y){
+  this.x = x;
+  this.y = y;
+  this.speedX = random(-5, 5);
+  this.speedY = random(-5, 5);
+  this.textSize = size;
+  this.color = color(255, 255, 255, 100);
+  this.letter = letter;
+  
+  this.checkBoundary = function(){
+    if(this.x <0){
+      this.x = 0;
+      this.speedX *= -1;
+    }
+    if(this.x > width){
+      this.x = width;
+      this.speedX *= -1;
+    }
+    if(this.x < 0){
+      this.y = 0;
+      this.speedY *= -1;
+    }
+  }
+  
+  this.update = function(){
+    this.speedX *= 0.98;
+    this.speedY *= 0.98;
+    this.x += this.speedX;
+    this.y += this.speedY;
+  }
+  
+     this.display = function(){
+      push();
+      fill(this.color);
+      textSize(this.textSize);
+      text(this.letter, this.x, this.y, this.size, this.size ); 
+     // ellipse(this.x, this.y, this.size, this.size);
+      pop();
+    }
+}
+class Wiggle {  //note: classes generally start with a capital letter. Class instantiates and move/wiggle the stars
+constructor (x, y, size, brightness) { //wishes wiggle into existence. 'x, y and size' are var's you created
+  this.x = x;
+  this.y = y;
+  this.textSize = size;  
+  this.glow =2;
+  if (this.glow<100) {
+    this.glow+=3;
+  }
+
+}
+
+update(){
+}
+
+display() {
+  push(); 
+  noStroke();
+  ellipse (this.x, this.y, this.textSize, this.textSize); 
+  fill(255, 253, 234,); 
+  pop(); 
+ 
+}
+
+
+}
