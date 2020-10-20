@@ -1,7 +1,9 @@
-# codewords: CONTENTS
+# codewords
 
 ## hell0, welcome to codewords 
 AKA: a messy insight of a students third year work 
+
+# CONTENTS
 
 [Week 1](https://github.com/renpapers/codeword/tree/master/Week%2001)
 
