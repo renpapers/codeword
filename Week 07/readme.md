@@ -1,4 +1,4 @@
-# WIP
+# WEEK 7 
 
 - This class we shared our paper prototype ideas/concepts for our final project. 
 - shared our texts
