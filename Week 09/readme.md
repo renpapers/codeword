@@ -1,4 +1,4 @@
-# WIP - START TRIALLING
+# WEEK 9 : TRIALLING.. MORE TRIALLING....
 WARNING: my code has a lottttt of notes and '//' in it! please excuse the mess, it reflects how much of a mess i currently am. My code writing style is a reflection of how my brain works. 
 
 Trial 1
