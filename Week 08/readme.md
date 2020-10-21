@@ -1,4 +1,4 @@
-# MILESTONE FOR AT2: A GALAXY OF REALITIES (WIP)
+# MILESTONE FOR AT2: A GALAXY OF REALITIES
 
 Milestoneess! I have made progress yay! This class we shared our paper prototype gifs: mine being the beginning of a narrative (landing page). Focusing now on concepts for the other 'realities' I'll be creating that will include parts of the text. 
 
