@@ -7,7 +7,7 @@ Milestoneess! I have made progress yay! This class we shared our paper prototype
 <img src="textnotes1.jpg">
 
 <img src="milestone-gif.gif">
-<img src="19.jpg">
+
 
 
 We discussed our pseudocode and details for our concept. Since my text writes about how language is used in Murakami's books to define and create realities, the concept for my landing page does this as well. When the user clicks on the page, a circle (aka a reality) is born. If this is then clicked, it'll direct you to another page that talks about a specific concept the text holds (as there are multiple). 
@@ -20,3 +20,5 @@ These realities will be concepts the text discusses, examples (aka. parts of Mur
 - karens workshop: wiggly letters tutorial. By far one of the more complex codes I've encountered thus far - in saying this, parts of it applied to my concept for this assignment (such as keypressed function, etc...) "all of these 'hello's are remembered. We care for them, we know them, we know where they are, we know the size of them". 
 - Discussed datamoshing 
 - inspiration: Andy gave us a wonderful source of other creatives portfolios, and I've been mesmerised by the graphics and codes I've witnessed. (Seriously giving me some portfolio inspiration too). Here's an artist I found particularly interesting: 
+
+<img src="wigglyletterssc.JPG">
