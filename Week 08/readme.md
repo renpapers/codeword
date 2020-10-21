@@ -10,7 +10,7 @@ Milestoneess! I have made progress yay! This class we shared our paper prototype
 
 
 
-We discussed our pseudocode and details for our concept. Since my text writes about how language is used in Murakami's books to define and create realities, the concept for my landing page does this as well. When the user clicks on the page, a circle (aka a reality) is born. If this is then clicked, it'll direct you to another page that talks about a specific concept the text holds (as there are multiple). 
+We discussed our pseudocode and details for our concept. Since my text writes about how language is used in Murakami's books to define and create realities, the concept for my landing page does this as well; where when the user clicks on the page, a circle (aka a reality) is born. If this is then clicked, it'll direct you to another page that talks about a specific concept the text holds (as there are multiple). 
 
 Unsure if that made sense, but if it didn't hope the gif helps out :) I want to create a 'galaxy of realities'. Perhaps when the mouse hovers and moves, sparks fly from it too, or more, smaller circles (stars) are created, replicating a galaxy of some sort in a digital space. 
 
