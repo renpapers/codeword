@@ -1,3 +1,5 @@
+#WEEK 5
+
 It was time to present our group projects for our first assignment this class! I was blown away by how everyone interpreted and created new worlds for this very specific text (one thing that stuck in my head was the Club Penguins group and the tunnel scene). Considering every game had their own restrictions, the way these issues were resolved if anything further highlighted the charms of each game, and provided a new narrative for the book which I adored. As for our group, we overall had great feedback from the class, and did some minor edits/changes before submission such as text colour and sizing for eligibility. I'd have to say my favourite scene from our group's video is the library one, there was an unsettling still presence in that room that I couldn't shake off. 
 
 <img src="animal crossing.JPG">
