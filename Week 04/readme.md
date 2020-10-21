@@ -10,4 +10,4 @@ Karen and Andy also delved more into github and how to post our codes up for our
 
 More self-practice on code was done this week too... here's some notes from the coding train and me attempting to use the 'random' function from one of his tutorials. 
 
-<img src= "pg5-6.JPG">
+<img src= "pg7-8.jpg">
