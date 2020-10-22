@@ -25,6 +25,7 @@ Altering and changing some more, so the dots burst out in random directions rath
 Here's me now, attempting to replace the ellipses with letters - it kind of worked? For some reason, when I used random letters instead of specific ones, squares/rectangles started popping up (I may have included too many characters under the random syntax). Below is what they look like sized down - more of what I was going for!
 
 [Here's my third trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials1.5/)
+
 [Here's' my fourth trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials3/)
 
 <img src="galaxt test 3.JPG">
