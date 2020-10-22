@@ -6,30 +6,34 @@ This led to a lot of enjoyable trialling and messing around with some sketches, 
 
 For all of these sketches, there was a slow halt to the stars when they stopped moving - a gravitational kind of effect, where rather than suddenly stopping, they slowed to a halt (done using 'speed' syntax). Although it's a small detail, I loved how this created a more fluid effect to the animation, giving it more of an organic appearance when moving. 
 
-Last week, Karen advised that I make get rid of the alpha in my background, as this caused my text to become slightly fuzzy and less clean appearing than they could be. This was originally done so the twinkling stars in the background could have more of a fading effect, rather than blinking/flashing. Although I was about to change this, I noticed that the alpha also caused my new stars I've been playing around with to create sorts of patterns in the background as they continued to move. The sense of permanence in this I thought added a poetic value to my piece - as I thought it was similar to what the text mentions: "Four Horses Cannot Draw It In" - A Chinese quote reminding us that something said cannot be unsaid, and by extension, once a reality is created, it cannot be uncreated. It raises the risk of something being written or said aloud becoming real, and therefore ceasing to be within the speakers (or in this case, writers) power to control anymore. This was a note I took in the earlier stages of analysing my text, and found it a happy accident that this code reminded me of it under a visual light - with the light reminder of the stars movement and journey, a visual memory of the movement from each star is created for the viewer. Because of this notion, I decided to leave the alpha in my background. I also figured, instead of using circles (aka stars) that spursed out by clicking the mouse, the quote "Four Horses Cannot Draw It In" could perhaps be used. The following images and sketches is my journey on doing so. 
+Last week, Karen advised that I make get rid of the alpha in my background, as this caused my text to become slightly fuzzy and less clean appearing than they could be. This was originally done so the twinkling stars in the background could have more of a fading effect, rather than blinking/flashing. Although I was about to change this, I noticed that the alpha also caused my new stars I've been playing around with to create sorts of patterns in the background as they continued to move. The sense of permanence in this I thought added a poetic value to my piece - as I thought it was similar to what the text mentions: "Four Horses Cannot Draw It In" - A Chinese quote reminding us that something said cannot be unsaid, and by extension, once a reality is created, it cannot be uncreated. It raises the risk of something being written or said aloud becoming real, and therefore ceasing to be within the speakers (or in this case, writers) power to control anymore. This was a note I took in the earlier stages of analysing my text, and found it a happy accident that this code reminded me of it under a visual light - with the light reminder of the stars movement and journey, a visual memory of the movement from each star is created for the viewer. Because of this notion, I decided to leave the alpha in my background. I also figured, instead of using circles (aka stars) that spursed out by clicking the mouse, the quote "Four Horses Cannot Draw It In" could perhaps be used. Below are my initial trials. 
 
 
 
 <img src="galaxy tests.JPG">
 
-After following a couple tutorials (sources in code!) and altering it accordingly to what I wanted to create, this is what I came up with! View my first trial [here](https://renpapers.github.io/codeword/Processing%20Sketches/galaxy_trials/)
+After following a couple tutorials (sources in code!) and altering it accordingly to what I wanted to create, this is what I came up with! 
+View my first trial [here](https://renpapers.github.io/codeword/Processing%20Sketches/galaxy_trials/)
 
-<img src="galaxt test 3.JPG">
+<img src="galaxt trial 2.JPG">
 
-Altering and changing some more, so the dots burst out in random directions rather than horizontally (some debugging was done, and I realised it was due to a few spelling errors... woops) I made the circles white with a transparency added, automatically creating a glow-like effect (an objective I aimed for in the beginning when drawing out my concept). As they layer over one another, further depth is added to the piece as well making it seem more dimensional and 'wispy' (is that the right word?). View my second trial [here](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials2/)
+Altering and changing some more, so the dots burst out in random directions rather than horizontally (some debugging was done, and I realised it was due to a few spelling errors... woops) I made the circles white with a transparency added, automatically creating a glow-like effect (an objective I aimed for in the beginning when drawing out my concept). As they layer over one another, further depth is added to the piece as well making it seem more dimensional and 'wispy' (is that the right word?). 
+[Here's my second trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials2/)
 
 <img src="galaxy test 2.JPG">
 
-Here's me now, attempting to replace the ellipses with letters - it kind of worked? For some reason, when I used random letters instead of specific ones, squares/rectangles started popping up (I may have included too many characters under the random syntax). 
+Here's me now, attempting to replace the ellipses with letters - it kind of worked? For some reason, when I used random letters instead of specific ones, squares/rectangles started popping up (I may have included too many characters under the random syntax). Below is what they look like sized down - more of what I was going for!
+
+[Here's my third trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials1.5/)
+[Here's' my fourth trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials3/)
+
+<img src="galaxt test 3.JPG">
 
 
-
-What I need to add this week onto my code:
-
-- glow effect on circles
-- fade effect on mousepressed function
+## What I need to add this week onto my code:
 - add sound/music
 - change typeface
+- use quote "Four Horses Cannot Draw It In" for mousePressed function (spursing stars/galaxies). 
 
 
 If I have extra time: 
