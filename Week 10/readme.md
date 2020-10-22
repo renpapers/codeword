@@ -18,7 +18,8 @@ https://editor.p5js.org/remarkability/sketches/rtM08miUD
 
 
 ## What I neeed to do this week: 
-- individual split of letters from 'haruki murakami' sentence
+- Reconsider what should be created when using the mousePressed function
+- Find music to add in 
 - space bar key clearing the page so it doesn't get too messy, or perhaps creating a max amount of circles/letters for the mousePressed function may be easier. 
 
 
