@@ -1,5 +1,9 @@
 # WEEK 10: DEBUGGING AND TRIALLING
 
+## FIRST THOUGH: SOME STARRY INSPIRATION!
+
+Ever since first year, stars have always drawn me in (in fact, for my final group project during 2nd semester of first year, I painted a 3m canvas full of gold stars as part of the final outcome - playing with the use of 'set design' in a very DIY manner). As a sort of nostalgic image (a concept Strecher discusses in the text I'm using for this project), I thought I'd show them here too. 
+
 This week we continued to work on our main project. Continuing off my thoughts from last week, I decided to create more content in my sketch and add in a quote in my sketch that permanently remains stationary, whilst the user clicks around creating stars and the letters 'HARUKI MURAKAMI' - this concept has still remained the same, although I am reconsidering the notion of having Murakami's name popping up whenever the user clicks - what is the true purpose of this? I suppose I wanted to expose how this project was essentially about the authors works, and I wanted a visual that would represent this notion. 
 
 On a [separate sketch](https://renpapers.github.io/codeword/Processing%20Sketches/AT2_trial3/), I managed to create a fading in and out effect for the stationary quote, which I thought worked well with my overall atmosphere as the words dip in and out of a users screen - adding a more so dynamic effect to my sketch. Although simple, I really loved the slow animation this produced, bringing me to a sort of calm lull - an ambience I'd love to bring into the sketch when finalised. 
