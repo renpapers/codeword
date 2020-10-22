@@ -3,10 +3,12 @@ WARNING: my code has a lottttt of notes and '//' in it! please excuse the mess, 
 
 This class we were working on our own projects - starting to create our own code. Andy provided us with a google docs sheet we could utilise to enter in our progress work for the next few weeks - entering in what we needed help with and what we've managed to do. During this class we were also reminded about how our code cannot be written for us - as Karen mentioned she can lead us towards the right direction, but cannot type in the solution for us. This made complete sense, and I think only further motivated me to do my own research and self-trialling my work (over and over again). 
 
+<img src="spreadsheet.JPG">
+
 My concept has remained the same currently, although in mentioning what Karen said, I decided to recreate the [wiggly letters](https://github.com/renpapers/codeword/tree/master/Week%2008) tutorial from last week - except purely from scratch without going through the recorded tutorial. Ultimately, this made me realise I still don't fully understand some of the basics of code (such as how the structure works). I managed to get to a few certain points as you can see below: managing to add an ellipse and utilise the mousePressed function. Although I forgot how to split my sentence ('Haruki Murakami') into individual letters. Stubbornly, I decided not to rewatch Karens tutorial still, and attempt to figure it out myself (this ended up with me staying up till 4am deep in frustration). Facing my code, I realised my concept may be too much of a 'baby' at the moment, and I yearned to add more to it to do the text justice. Simple is good sometimes, yes, but I feel as if my concept needs added  content to it - Either way, I have to start somewhere I suppose - considering I haven't done code before, I'll just take this as a challenge and do one thing at a time I suppose :) 
 Anyway here are my trials for this week, and what I discovered/created (may be small, but baby steps, right?) 
 
-Trial 1
+[Trial 1](https://renpapers.github.io/codeword/Processing%20Sketches/AT2_trial1/) NOTE: All of the other trials are other variations from trial 1 I played around with. 
 <img src="trial1.JPG">
 
 Trial 2
