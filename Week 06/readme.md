@@ -7,8 +7,9 @@ The second half of this class was aimed towards us solidifying on choosing a cri
  <img src="textnotes.jpg">
 <img src="textnotes2.jpg">
 
-This class we were also introduced to the concept of pseudo code... I'm still getting the hang of it - as it kind of reminded me of poetry but in a code-y context, where a sort of narrative is untold using short sentences (and a lot of 'if's' and 'when's.. or 'while's? aahh Karen help...). Still unsure if this is correct, but as Karen and Andy encouraged us to make our own to get used to the concept, here's a short one I wrote:
+This class we were also introduced to the concept of pseudo code, which is a simple description of the steps in an algorithm or program. I'm still getting the hang of it - as it kind of reminded me of poetry but in a code-y context, where a sort of narrative is untold using short sentences (and a lot of 'if's' and 'when's.. or 'while's? aahh Karen help...). Still unsure if this is correct, but as Karen and Andy encouraged us to make our own to get used to the concept, here's a short one I wrote:
 
+```
 START
 
 IF finished uni work
@@ -21,5 +22,5 @@ ELSE
 continue playing till 2am 
 
 END
-
+```
 Karen went through a couple new coding tutorials with us again, this time more so playing around with text and how we can animate them in paragraphs, using frame functions and the 'sin' syntax. You can view them [here](https://renpapers.github.io/codeword/Processing%20Sketches/week7_sketch) and [here](https://renpapers.github.io/codeword/Processing%20Sketches/week7_sketch_2)
