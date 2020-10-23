@@ -64,11 +64,15 @@ These are just examples of the amazing outcomes students in this class created. 
 
 ## A MORE SENTIMENTAL REFLECTION 
 
-Well... I won't say I was on the verge of crying towards the end of this class. I cannot be more grateful for Karen and Andy's help throughout this entire course, and being taught by them was eye opening to me ever since first year - I still remember having trouble with the 'Interviewing a Designer' assignment in first year, and having my entire publication set up in Illustrator (Thank you Andy for introducing me to Indesign... I really had no idea what I was doing). I remember hanging images of our handmade typefaces onto the ascending walls in building 9, and lying down on the floor to view them (found these images on my old tumblr). I could not be more grateful for what both of you have taught me ethically and informatively about design, and I suppose a few lessons in life too throughout first year to now. The class ended on a bittersweet note where we all said goodbye, but I hope this isn't the last time I'll get to talk to both of you! Thank you for always believing in your students and pushing boundaries, amongst other aspects you've helped us (me) in. 
+Well... I won't say I was on the verge of crying towards the end of this class. I cannot be more grateful for Karen and Andy's help throughout this entire course, and being taught by them was eye opening to me ever since first year - I still remember having trouble with the 'Interviewing a Designer' assignment in first year, and having my entire publication set up in Illustrator (Thank you Andy for introducing me to Indesign... I really had no idea what I was doing). I remember hanging images of our handmade typefaces onto the ascending walls in building 9, and lying down on the floor to view them (found these images on my old tumblr). 
+
+<img src="firstyear.jpg">
+
+I could not be more grateful for what both of you have taught me ethically and informatively about design, and I suppose a few lessons in life too throughout first year to now. The class ended on a bittersweet note where we all said goodbye, but I hope this isn't the last time I'll get to talk to both of you! Thank you for always believing in your students and pushing boundaries, amongst other aspects you've helped us (me) in. 
 
 That's all for now, bye guys :) 
 
-- Lauren 
+Lauren 
 
 
 
