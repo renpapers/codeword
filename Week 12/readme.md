@@ -4,7 +4,9 @@
 
 This week, as all my final weeks are - was a mess. I 100% work more efficiently when under pressure, and I've always believed fear of 'failure'... no it's not good but it's important (a quote I also found whilst listening to a talk in Adobe Max yesterday by Awkwafina). Both Sam and I enjoyed (and stressed over) our late night chats over teams as we both emotionally supported one another, something I'll miss after this week when uni finishes. 
 
-I further refined my code this week before presentation; changing the stock-standard typeface to one called 'Sicret'. The monoline font holds a digital nature, and considering this entire assignment was about reading in a digital space, in ways other than on paper I thought it suited well.
+I further refined my code this week before presentation; changing the stock-standard typeface to one called ['Sicret'](https://creativemarket.com/MansGreback/5033928-Sicret). The monoline font holds a digital nature, and considering this entire assignment was about reading in a digital space, in ways other than on paper I thought it suited well.
+
+<img src="sicret.JPG">
 
 The music was also added, where once the user clicks the song begins. I didn't realise that chrome had some issues with playing music, so I had some debugging to do where the song would play over itself whenever the user clicked, creating quite a teriffying melody. Eventually managed to find a sort of 'block' code: userStartAudio(); so it would only play once. I altered a couple more minor details, such as the speed when the letters/stars burst out dragging on a bit more, and changing the max letters to 1084 (a reference to Murakami's book '1Q84') - Although not specifically representing anything, I thought it would be nice to have some hidden references in my code that relates to Murakami's work (the music too), as this caused me to treat code more as a narrative, rather than numbers and letters (at this point I've disassociated code with being dry... I blame my commerce friends for giving me prejudice in the beginning...) 
 
