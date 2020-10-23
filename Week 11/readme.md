@@ -15,7 +15,7 @@ Last week, Karen advised that I make get rid of the alpha in my background, as t
 After following a couple tutorials (sources in code!) and altering it accordingly to what I wanted to create, this is what I came up with! 
 View my first trial [here](https://renpapers.github.io/codeword/Processing%20Sketches/galaxy_trials/)
 
-<img src="galaxt trial 2.JPG">
+<img src="galax trials 2.JPG">
 
 Altering and changing some more, so the dots burst out in random directions rather than horizontally (some debugging was done, and I realised it was due to a few spelling errors... woops) I made the circles white with a transparency added, automatically creating a glow-like effect (an objective I aimed for in the beginning when drawing out my concept). As they layer over one another, further depth is added to the piece as well making it seem more dimensional and 'wispy' (is that the right word?). 
 [Here's my second trial](https://renpapers.github.io/codeword/Processing%20Sketches/galaxytrials2/)
