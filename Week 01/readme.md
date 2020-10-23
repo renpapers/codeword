@@ -4,6 +4,10 @@ First class! Today Andy went through an introduction to reading through online p
 
 We as a class also decided to move into the minecraft world as Karen and Andy introduced us to games being another virtual tool to read. Not being an avid player of minecraft, I was sceptical of what we'd be learning through the game, but as I followed along through Flinders St Station whilst Andy and Karen were talking, I felt like i was a protagonist to some sort of film or book. It was interesting how immersive this sensation felt, and opened my eyes to how narratives are created through virtual games. 
 
+<img src="minecraft.jpg">
+
+Image credit: Andy Simionato
+
 In saying this, Andy briefed us on our first assignment being an interpretation of a text via a game we choose in groups. The text given to us was 'House of Leaves' by Mark Z. Danielewski - a horror text where characters appear to be trapped physically and mentally. Looking forward to reading more into the book! The group I've been placed in decided to use the game Animal Crossing to reinact one of the chapters, the family friendly game being a juxtaposition with the sinister text. 
 
 
