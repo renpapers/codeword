@@ -15,6 +15,8 @@ Choosing a typeface - decided this one was too rounded and 'disney-like'.
 
 ## HERE'S MY STATEMENT FOR MY FINAL: A GALAXY OF REALITIES
 
+[View final code here](https://renpapers.github.io/codeword/Processing%20Sketches/AGalaxyofRealities/)
+
 ‘A Galaxy of Realities’ is a visual depiction of Professor
 Matthew Carl Strecher’s words from ‘The Forbidden Worlds of
 Haruki Murakami’, submerging the screen in a profound space
