@@ -13,7 +13,7 @@ A digital version of my journal and journey throughout this studio. Navigate you
 
 [Week 4](https://github.com/renpapers/codeword/tree/master/Week%2004)
 
-[Week 05](https://github.com/renpapers/codeword/tree/master/Week%2005)
+[Week 5](https://github.com/renpapers/codeword/tree/master/Week%2005)
 
 [Week 6](https://github.com/renpapers/codeword/tree/master/Week%2006)
 
