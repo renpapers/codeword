@@ -1,10 +1,13 @@
 # WEEK4 
 
-Karen's workshop: We learnt more about coding in processions: specifically with type - how to load different typefaces in, the positioning and pt. size. This was further expanded to create a spinning typeface, that eventually could fade and increase in size with mouse coodrinates. [Here's mine with one of my favourite typefaces](https://renpapers.github.io/codeword/Processing%20Sketches/Spinning%20text)
+Karen's workshop this class was quite interesting to me, where we learnt more about coding in processions: specifically with type - how to load different typefaces in, the positioning and pt. size. This was further expanded to create a spinning typeface, that eventually could fade and increase in size with mouse coodrinates. [Here's mine with one of my favourite typefaces](https://renpapers.github.io/codeword/Processing%20Sketches/Spinning%20text)
 
 <img src= "spinning text.JPG">
 
-We continued to work on our group assignment, and filmed some scenes that had the context already created in-game. Along the way we found some issues such as filming whilst moving, and getting kicked off the island due to connection issues, so it took some time to start up but eventually we got into a rhythm where we successfully built all the scenes (borrowing objects in the game from one another) and filming them. There was careful consideration in planning actions and movements during the filming process and I'm grateful we all worked in a cooperative manner :) 
+We continued to work on our group assignment, and filmed some scenes that had the context already created in-game. Along the way we found some issues such as filming whilst moving, and getting kicked off the island due to connection issues, so it took some time to start up but eventually we got into a rhythm where we successfully built all the scenes (borrowing objects in the game from one another) and filming them. There was careful consideration in planning actions and movements during the filming process and I'm grateful we all worked in a cooperative manner, as I suppose trying to work together, virtually can sometimes be a challenge as a group. Here were some scenes we filmed in:
+
+<img src ="animalcrossing1.jpg">
+<img src ="animalcrossing2.jpg">
 
 Karen and Andy also delved more into github and how to post our codes up for our final SKO (here's current me, three weeks later still struggling to use this platform...) 
 
