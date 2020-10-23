@@ -11,7 +11,7 @@ image credit: Jamie Tung
 
 Another inspiration I've read up on recently (still not code... but still very starry!) is an art installation by Yayoi Kusama called "Infinity Mirrored Room", held at the David Zwirner gallery in New York. Yayoi focuses her entire art work on the concept of 'infinity', where you walk through an endless room of time and space. The room being rilled with mirrors is seemingly infinite as hanging lights creates a visual galaxy or nebula. Akin to how captivating and immersive a installation experience can be (like this one), I hope to create a sort of visually enchanting piece that lets an audience wander around the screen. 
 
-<img src="yoyoi kusama.jpg">
+<img src="yoyoi kusama.jpg" width="1000" height="600" />
 
 This week we continued to work on our main project. Continuing off my thoughts from last week, I decided to create more content in my sketch and add in a quote in my sketch that permanently remains stationary, whilst the user clicks around creating stars and the letters 'HARUKI MURAKAMI' - this concept has still remained the same, although I am reconsidering the notion of having Murakami's name popping up whenever the user clicks - what is the true purpose of this? I suppose I wanted to expose how this project was essentially about the authors works, and I wanted a visual that would represent this notion. 
 
